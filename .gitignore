@@ -1,0 +1,7 @@
+build/
+*.o
+*.log
+examplejob.*
+.DS_Store
+.idea/
+.vscode/
